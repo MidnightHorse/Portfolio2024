@@ -1,4 +1,4 @@
-# Collection of Game Development
+# Collection of Games
 My portfolio for the year 2024
 
 # Will there be a website in the future?
