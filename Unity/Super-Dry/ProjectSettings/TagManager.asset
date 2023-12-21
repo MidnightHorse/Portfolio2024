@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - BattleTrigger
+  - RoundManager
+  - VillageTrigger
+  - ShootPoint
+  - PlayerTargetPoint
+  - Wizard
+  - NeedToDestroy
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Target
+  - Obstruction
+  - Ground
+  - Camera
+  - Enemy
+  - Player
+  - Player's projectile
+  - Enemy's projectile
+  - Wizard's projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
